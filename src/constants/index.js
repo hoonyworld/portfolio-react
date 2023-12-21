@@ -53,12 +53,12 @@ export const portText = [
         name: "포트폴리오",
     },
     {
-        num: "Main Project (개발중)",
+        num: "Main Project",
         title: "MoodMate",
         desc: "자바/스프링을 활용하여 개발한 크리스마스 교내 매칭 서비스 프로젝트 입니다. DB에는 채팅 기록, 이메일, 비밀번호, 닉네임 등이 저장되며, AWS 서버를 이용해 운영중입니다. 본인이 원하는 이상형에 맞는 조건들을 적으면 사이트 내에서 매칭 알고리즘을 통해 매칭을 시켜줍니다.",
         img: proj2,
         code: "https://github.com/Leets-Official/MoodMate-BE",
-        view: "https://github.com/Leets-Official/MoodMate-BE",
+        view: "https://www.moodmate.site/",
         name: "포트폴리오",
     },
     {
