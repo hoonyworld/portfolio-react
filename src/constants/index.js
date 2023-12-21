@@ -123,7 +123,7 @@ export const footerText = [
     {
         title: "github",
         desc: "깃헙에 오시면 더 많은 소스를 볼 수 있습니다.",
-        link: "https://github.com/webstoryboy",
+        link: "https://github.com/hoonyworld",
     },
     {
         title : "blog",
